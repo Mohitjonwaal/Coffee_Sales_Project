@@ -1,7 +1,7 @@
 # Coffee_Sales_Project
 Coffee Sales Dashboard
 This project features a comprehensive Coffee Sales Dashboard built using Excel. The dashboard provides insights into various aspects of coffee sales performance, including total sales, top-performing customers, and sales distribution by country.
-[Coffee_dashboard](https://github.com/Mohitjonwaal/Coffee_Sales_Project/blob/main/Screenshot%202025-01-07%20201618.png)
+![Coffee_dashboard](https://github.com/Mohitjonwaal/Coffee_Sales_Project/blob/main/Screenshot%202025-01-07%20201618.png)
 Key Features:
 
 Total Sales Overview: Breakdown of sales by coffee type (Arabica, Robusta, etc.) over different time periods.
